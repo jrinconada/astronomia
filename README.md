@@ -1,4 +1,5 @@
 # Sistema solar
+![Sistema solar a escala](planets/sistema-solar-escala.png)
 ## ☀️ Sol
 - Sol > Analema > Eclíptica > Solticios / Equinocios
 - El Sol tiene el 99% de la masa del Sistema Solar
@@ -6,6 +7,8 @@
 ## 🌕 Luna
 - Luna > Fases > Salida y puesta de luna
 - La tierra es 4 x luna está a 30 x tierras de distancia y pesa 80 x lunas
+
+![Tierra y Luna a escala de 500km por pixel](moon/earth-moon-scale-500kmPerpx.jpg)
 
 ## 🛰️ Satélites
 - Órbitas > Geoestacionaria (alta) (meteo y comms) > Polar (media) (navegación) > LEO (baja) (comms y observación)
