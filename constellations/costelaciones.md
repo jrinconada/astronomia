@@ -33,7 +33,7 @@ Una [jirafa](##camelopardus).
 La [reina](##casiopeia), esposa de [Cefeo](##cepheus) y madre de la [Andrómeda](##andromeda) a la que condenan a morir devorada por un [monstruo marino](##cetus). Descansa tumbada sobre la vía láctea.
 ## Cepheus
 El [rey](##cepheus), marido de [Casiopea](##casiopeia) y padre de la [Andrómeda](##andromeda) a la que condenan a morir devorada por un [monstruo marino](##cetus).
-## Ursa Minor 
+## Ursa Maior 
 La [osa grande](##ursa-maior) es la amante de *Zeus* convertida en osa por su mujer. Cuando va a abrazar a su hijo, este intenta matarla y *Zeus* le convierte también en [osito](##ursa-minor).
 ## Ursa Minor
 El [oso pequeño](##ursa-minor) era un niño que fué transformado en oso por *Zeus* para que no matara a su madre convertida en osa. Su cola está atada al polo y sigue a la [mamá osa](##ursa-maior).
