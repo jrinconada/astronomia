@@ -43,11 +43,11 @@ Un [dragón](#draco) al que mata [Hércules](#hercules).
 # Verano
 Son las constelaciones visibles durante las noches de verano por estar alejadas del Sol durante esos meses. También se incluyen las del Zodiaco contrarias a los meses cercanos.
 ## Aquila
-*Zeus* se convierte en [águila](#aquila) para raptar a un [camarero guapo](#aquarius) y llevárselo al *Olimpo*. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la lira[#lyra] forman el triángulo estival.
+*Zeus* se convierte en [águila](#aquila) para raptar a un [camarero guapo](#aquarius) y llevárselo al *Olimpo*. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la [lira](#lyra) forman el triángulo estival.
 ## Cygnus
 *Zeus* se convierte en [cisne](#cygnus) para seducir a una chica. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la [lira](#lyra) forman el triángulo estival. Vuela sobre la vía láctea.
 ## Lyra
-La lira[#lyra] de *Orfeo* que toca música capaz de amansar fieras, seducir a mujeres y acallar a las sirenas. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la lira[#lyra] forman el triángulo estival.
+La lira[#lyra] de *Orfeo* que toca música capaz de amansar fieras, seducir a mujeres y acallar a las sirenas. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la [lira](#lyra) forman el triángulo estival.
 ## Hercules
 [Hijo bastardo de Zeus](#hercules) con la nieta de [Perseo](#perseus) que mata a toda su familia en un ataque de locura y como penitencia debe hacer 12 trabajos, como matar a un [león](#leo), un [dragón](#draco), una [serpiente marina de muchas cabezas](#hydra) y a un [cangrejo gigante](#cancer).
 ## Ara
@@ -124,6 +124,6 @@ El [pastor caníbal](#bootes) convertido en en [lobo](#lupus) por *Zeus* como ca
 ## Corvus
 [Cuervo mayordomo](#corvus) que lleva una [serpiente marina de muchas cabezas](#hydra) a su dios en una [taza](#crater).
 ## Canes Venatici
-[dos perros](#canes-venatici) que acompañan al [pastor caníbal](#bootes) usados para pastorear a las osas [mayor](#ursa-maior) y [menor](#ursa-minor)
+[Dos perros](#canes-venatici) que acompañan al [pastor caníbal](#bootes) usados para pastorear a las osas [mayor](#ursa-maior) y [menor](#ursa-minor)
 ## Coma Berenices
 El [pelo](#coma-berenices) de una reina de Egipto.

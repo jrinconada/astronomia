@@ -1,8 +1,15 @@
 # Sistema solar
 ![Sistema solar a escala](planets/sistema-solar-escala.png)
 ## ☀️ Sol
-- Sol > Analema > Eclíptica > Solticios / Equinocios
-- El Sol tiene el 99% de la masa del Sistema Solar
+- Se mueve por la una línea que representa el plano del Sistema Solar llamado **eclíptica**.
+- Debido a la **inclinación del eje** de la rotación de la tierra cambia la posición de la eclíptica dando lugar a las **estaciones**.
+- Los puntos de inflexión son el día más largo, la noche más larga (**solsticios**) y las noches iguales (**equinocios**).
+- El cambio en la posición del *Sol* por el eje de rotación la excentricidad de la órbita se ve en la **ecuación del tiempo** y en el **analema**.
+- Tiene el **99%** de la **masa** del Sistema Solar.
+
+![Camino del Sol](sun/sun-path.jpg)
+![Ecuación del Tiempo](sun/equation-of-time.jpg)
+![Analema](sun/analema-sicily.jpg)
 
 ## 🌕 Luna
 - Luna > Fases > Salida y puesta de luna
