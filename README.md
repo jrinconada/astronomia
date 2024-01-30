@@ -111,3 +111,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - *M1* Nebulosa del Cangrejo es un resto de supernova (en *Tauro*).
 
 ![Nebulosa del Cangrejo](deep/crab-nebula.jpg)
+
+- *NGC 7293* Nebulosa de la Hélice son gases expulsados por la enana blanca apagándose en el centro (a la derecha de la rodilla de *Acuario*).
+
+![Nebulosa de la Hélice](deep/helix-nebula.webp)
