@@ -20,8 +20,8 @@
 ![Mapa de la Luna](moon/moon-map.jpg)
 
 ## 🛰️ Satélites
-- Órbitas > Geoestacionaria (alta) (meteo y comms) > Polar (media) (navegación) > LEO (baja) (comms y observación)
-- ISS (Estación Espacial Internacional)
+- Órbitas > Geoestacionaria (alta) (meteo y comms) (36000km) > Polar (media) (navegación) > LEO (baja) (comms y observación terrestre) > Lagrange
+- ISS (Estación Espacial Internacional) LEO, 2h, 2000km, 8km/s
 - StarLink (en línea al lanzamiento)
 
 ## 🪐 Planetas
@@ -112,6 +112,19 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ![Nebulosa del Cangrejo](deep/crab-nebula.jpg)
 
+- *M57* Nebulosa del Anillo son gases expulsados por la enana blanca apagándose en el centro (en la sujección de las cuerdas de *Lira*).
+
+![Nebulosa del Anillo](deep/ring-nebula.webp)
+
 - *NGC 7293* Nebulosa de la Hélice son gases expulsados por la enana blanca apagándose en el centro (a la derecha de la rodilla de *Acuario*).
 
 ![Nebulosa de la Hélice](deep/helix-nebula.webp)
+
+## 🔭 Observación
+- Apertura, distancia focal, magnificación
+- Filtros: color, contaminación, Ha, Oiii, Sii
+- Niveles de magnitud y escala Brotle
+- Telescopios: refractor, reflector (Newtoniano), Cassegrain
+- Monturas: trípode, altazimutal, equatorial, motorizada
+- 
+- Stacking, flats y darks
