@@ -101,30 +101,43 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ![Galaxia del Sombrero](deep/sombrero-galaxy.jpg)
 
 ## ☁️ Nebulosas
+### Formación estelar
 - *M42* Nebulosa de Orión (debajo del cinturón).
 - *M8* Nebulosa del Lago (encima del brazo de *Sagitario*).
-- *M27* Nebulosa Dumbbell (en la cola de *Vulpecula*).
-- *M16* Pilares de la Creación o Nebulosa del Ágila.
+- *M16* Pilares de la Creación o Nebulosa del Águila.
 
 ![Pilares de la Creación](deep/m16.webp)
 
-- *M1* Nebulosa del Cangrejo es un resto de supernova (en *Tauro*).
-
-![Nebulosa del Cangrejo](deep/crab-nebula.jpg)
-
-- *M57* Nebulosa del Anillo son gases expulsados por la enana blanca apagándose en el centro (en la sujección de las cuerdas de *Lira*).
+### Planetarias
+Son **gases** expulsados por la **enana blanca** apagándose en el centro.
+- *M27* Nebulosa Dumbbell (en la cola de *Vulpecula*).
+- *M57* Nebulosa del Anillo (en la sujección de las cuerdas de *Lira*).
 
 ![Nebulosa del Anillo](deep/ring-nebula.webp)
 
-- *NGC 7293* Nebulosa de la Hélice son gases expulsados por la enana blanca apagándose en el centro (a la derecha de la rodilla de *Acuario*).
+- *NGC 7293* Nebulosa de la Hélice (a la derecha de la rodilla de *Acuario*).
 
 ![Nebulosa de la Hélice](deep/helix-nebula.webp)
 
+### Supernova
+Restos de una **supernova**: estrella masiva al final de su vida antes de convertirse en un púlsar o un agujero negro.
+- *M1* Nebulosa del Cangrejo (en *Tauro*).
+
+![Nebulosa del Cangrejo](deep/crab-nebula.jpg)
+
 ## 🔭 Observación
-- Apertura, distancia focal, magnificación
-- Filtros: color, contaminación, Ha, Oiii, Sii
-- Niveles de magnitud y escala Brotle
-- Telescopios: refractor, reflector (Newtoniano), Cassegrain
-- Monturas: trípode, altazimutal, equatorial, motorizada
-- 
-- Stacking, flats y darks
+- **Parámetros**: Apertura, distancia focal, magnificación
+- **Filtros**: color, contaminación, Ha, Oiii, Sii
+- **Luz**: Niveles de magnitud y escala Brotle
+- **Telescopios**: refractor, reflector (Newtoniano), Cassegrain
+- **Monturas**: trípode, altazimutal, equatorial, motorizada
+- **Calibración**: Lights (información), Darks (ruido), Flats (polvo y viñeta)
+- **Edición**: Stacking, histograma, curvas de color
+
+## Misiones
+- **URSS**: Sputnik, Laika, Gagarin
+- **USA**: Apolo, Voyager
+- **Marte**: Curiosity, Oportunity
+- **Saturno**: Cassini-Huygens
+- **SpaceX**: StarLink, cohetes reutilizables
+- **Telescopios**: Hubble, James Webb
