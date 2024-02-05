@@ -87,14 +87,19 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - *Sirio* es la más luminosa, nariz de *Canis Maior*, le apunta el cinturón de *Orión*.
 - *Alfa Centauri* es el sistemas solar más cercano a 4 años luz.
 - *Betelgeuse* en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
-- *M45* Pléyades (7 estrellas cercanas en el culo de *Tauro*)
+- *M45* Pléyades (7 estrellas cercanas en el culo de *Tauro*).
+- *M31* Cúmulo globular de Hércules (en el sobaco de *Hércules*).
 - La mayoría de las estrellas más luminosas son **binarias**.
 
 ## 🌌 Galaxias
 - **Maratón Messier** para ver lo 110 objetos del catálogo en una sola noche.
-- *M31* Andrómeda (apunta una punta de *Casiopea*) nos chocamos y fusionamos con ella dentro de 6000 millones de años.
+- *M31* Andrómeda (apunta una punta de *Casiopea*) tiene galaxias satélites. Nos chocamos y fusionamos con ella dentro de 6000 millones de años.
 - *M51* Remolino (justo debajo del asa del cazo de la *Osa Mayor*).
-- *M33* Triángulo (entre el *Triángulo* y *ndrómeda*).
+- *M33* Triángulo (entre el *Triángulo* y *Andrómeda*).
+- *M87* Chorro de plasma parte de un cúmulo de galaxias (en la mano de *Virgo*).
+
+![Chorro de plasma](deep/M87-jet.jpg)
+
 - *NGC 5139* Cúmulo *Omega Centauri* (en el lomo del *Centaruro*).
 - *M104* Sombrero (entre *Virgo* y *Corvus*).
 
@@ -135,9 +140,10 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 - **Edición**: Stacking, histograma, curvas de color
 
 ## Misiones
-- **URSS**: Sputnik, Laika, Gagarin
-- **USA**: Apolo, Voyager
-- **Marte**: Curiosity, Oportunity
+- **URSS**: Laika, Sputnik, Gagarin, Venera
+- **NASA**: Apollo, Pioneer, Voyager
+- **Internacional**: ISS
+- **Marte**: Curiosity, Oportunity, Perseverance
 - **Saturno**: Cassini-Huygens
 - **SpaceX**: StarLink, cohetes reutilizables
-- **Telescopios**: Hubble, James Webb
+- **Telescopios**: Hubble, Keppler James Webb
