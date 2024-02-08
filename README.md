@@ -84,43 +84,43 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - Las constelaciones del hemisferio sur se nombraron en la era moderna: *octante*, *sextante*, *brújula*, *reloj*, *telescopio*, *microscopio*, *máquina neumática*, *barco*, *velas*, *quilla*...
 
 ## ⭐ Estrellas
-- *Sirio* es la más luminosa, nariz de *Canis Maior*, le apunta el cinturón de *Orión*.
-- *Alfa Centauri* es el sistemas solar más cercano a 4 años luz.
-- *Betelgeuse* en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
-- *M45* Pléyades (7 estrellas cercanas en el culo de *Tauro*).
-- *M31* Cúmulo globular de Hércules (en el sobaco de *Hércules*).
-- La mayoría de las estrellas más luminosas son **binarias**.
+- La mayoría de las estrellas más luminosas son **binarias** y están en la **Vía Láctea**.
+- **Sirio** es la más luminosa, nariz de *Canis Maior*, le apunta el cinturón de *Orión*.
+- **Alfa Centauri** es el sistemas solar más cercano a 4 años luz.
+- **Betelgeuse** en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
+- *M45* **Pléyades** (7 estrellas cercanas en el culo de *Tauro*).
+- **M31** Cúmulo globular (en el sobaco de *Hércules*).
 
 ## 🌌 Galaxias
 - **Maratón Messier** para ver lo 110 objetos del catálogo en una sola noche.
-- *M31* Andrómeda (apunta una punta de *Casiopea*) tiene galaxias satélites. Nos chocamos y fusionamos con ella dentro de 6000 millones de años.
-- *M51* Remolino (justo debajo del asa del cazo de la *Osa Mayor*).
-- *M33* Triángulo (entre el *Triángulo* y *Andrómeda*).
-- *M87* Chorro de plasma parte de un cúmulo de galaxias (en la mano de *Virgo*).
+- *M31* **Andrómeda** (apunta una punta de *Casiopea*) tiene galaxias satélites. Nos chocamos y fusionamos con ella dentro de 6000 millones de años.
+- *M51* **Remolino** (justo debajo del asa del cazo de la *Osa Mayor*).
+- *M33* **Triángulo** (entre el *Triángulo* y *Andrómeda*).
+- *M87* Chorro de plasma parte de un cúmulo de galaxias donde se hizo la primera foto de un agujero negro (en la mano de *Virgo*).
 
 ![Chorro de plasma](deep/M87-jet.jpg)
 
 - *NGC 5139* Cúmulo *Omega Centauri* (en el lomo del *Centaruro*).
-- *M104* Sombrero (entre *Virgo* y *Corvus*).
+- *M104* **Sombrero** (entre *Virgo* y *Corvus*).
 
 ![Galaxia del Sombrero](deep/sombrero-galaxy.jpg)
 
 ## ☁️ Nebulosas
 ### Formación estelar
-- *M42* Nebulosa de Orión (debajo del cinturón).
-- *M8* Nebulosa del Lago (encima del brazo de *Sagitario*).
-- *M16* Pilares de la Creación o Nebulosa del Águila.
+- *M42* Nebulosa de **Orión** (debajo del cinturón).
+- *M8* Nebulosa del **Lago** (encima del brazo de *Sagitario*).
+- *M16* **Pilares de la Creación** o Nebulosa del *Águila*.
 
 ![Pilares de la Creación](deep/m16.webp)
 
 ### Planetarias
 Son **gases** expulsados por la **enana blanca** apagándose en el centro.
-- *M27* Nebulosa Dumbbell (en la cola de *Vulpecula*).
-- *M57* Nebulosa del Anillo (en la sujección de las cuerdas de *Lira*).
+- *M27* Nebulosa **Dumbbell** (en la cola de *Vulpecula*).
+- *M57* Nebulosa del **Anillo** (en la sujección de las cuerdas de *Lira*).
 
 ![Nebulosa del Anillo](deep/ring-nebula.webp)
 
-- *NGC 7293* Nebulosa de la Hélice (a la derecha de la rodilla de *Acuario*).
+- *NGC 7293* Nebulosa de la **Hélice** (a la derecha de la rodilla de *Acuario*).
 
 ![Nebulosa de la Hélice](deep/helix-nebula.webp)
 
@@ -134,8 +134,11 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 - **Parámetros**: Apertura, distancia focal, magnificación
 - **Filtros**: color, contaminación, Ha, Oiii, Sii
 - **Luz**: Niveles de magnitud y escala Brotle
+
+![Niveles de magnitud](sun/magnitud.png)
+
 - **Telescopios**: refractor, reflector (Newtoniano), Cassegrain
-- **Monturas**: trípode, altazimutal, equatorial, motorizada
+- **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (GoTo, Tracker)
 - **Calibración**: Lights (información), Darks (ruido), Flats (polvo y viñeta)
 - **Edición**: Stacking, histograma, curvas de color
 

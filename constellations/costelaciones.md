@@ -74,7 +74,7 @@ Le corta la cabeza a *Medusa* y de su sangre nace un [caballo con alas](#pegasus
 ## Andromeda
 La [princesa presumida](#andromeda) hija de [Cefeo](#cepheus) y [Casiopea](#casiopeia), que la condenan a ser devorada por un [monstruo marino](#cetus) por creerse muy guapa. [Perseo](#perseus) la salva convirtiéndolo en piedra con la cabeza de *Medusa*.
 ## Pegasus
-[Caballo con alas](#pegasus) nacido de la sangre de cabeza de *Medusa* cortada por [Perseo](##perseus).
+[Caballo con alas](#pegasus) nacido de la sangre de cabeza de *Medusa* cortada por [Perseo](##perseus), hermano de del [caballo pequeño](#equuleus).
 ## Cetus
 Un [monstruo marino](#cetus) que intenta devorar a la [princesa presumida](#andromeda) pero [Perseo](#perseus) le convierte en piedra *Medusa*.
 ## Eridanus
