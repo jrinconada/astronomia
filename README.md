@@ -71,6 +71,11 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - Puede que exista otro planeta pero no se ha confirmado.
 
 # Espacio profundo
+- El **catálogo Messier** tiene los objetos más fáciles de observar en el hemisferio norte.
+- En el centro de la **Vía Láctea** hay muchos **cúmulos** de estrellas.
+- En el brazo del *Sol* hay muchos *cúmulos abiertos*. Hacia el centro y en otros brazos *cúmulos globulares*.
+- Alejado de la *Vía Láctea* entre *Virgo* y *Leo* hay *cúmulos* de **galaxias**.
+- **Maratón Messier** para ver lo 110 objetos del catálogo en una sola noche. 
 
 ![Espacio profundo de Hubble](deep/hubble-deep-field.jpg)
 
@@ -88,11 +93,11 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - **Sirio** es la más luminosa, nariz de *Canis Maior*, le apunta el cinturón de *Orión*.
 - **Alfa Centauri** es el sistemas solar más cercano a 4 años luz.
 - **Betelgeuse** en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
+- **Vega** fue la estrella polar al inicio de la civilización (12000 a.C.) con magnitud 0 y parte del *triángulo estival* con **Altair** y **Deneb** (que reposan en vía *Vía Láctea*).
 - *M45* **Pléyades** (7 estrellas cercanas en el culo de *Tauro*).
 - **M31** Cúmulo globular (en el sobaco de *Hércules*).
 
 ## 🌌 Galaxias
-- **Maratón Messier** para ver lo 110 objetos del catálogo en una sola noche.
 - *M31* **Andrómeda** (apunta una punta de *Casiopea*) tiene galaxias satélites. Nos chocamos y fusionamos con ella dentro de 6000 millones de años.
 - *M51* **Remolino** (justo debajo del asa del cazo de la *Osa Mayor*).
 - *M33* **Triángulo** (entre el *Triángulo* y *Andrómeda*).
@@ -107,11 +112,18 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ## ☁️ Nebulosas
 ### Formación estelar
-- *M42* Nebulosa de **Orión** (debajo del cinturón).
+- *M42* Nebulosa de **Orión** (debajo del cinturón). Parte del complejo de nebulosas de absorción como el *caballo*, la *bruja* o la supernova *bucle de Barnard*.
+
+![Complejo de Orión](deep/orion-complex.jpg)
+
 - *M8* Nebulosa del **Lago** (encima del brazo de *Sagitario*).
 - *M16* **Pilares de la Creación** o Nebulosa del *Águila*.
 
 ![Pilares de la Creación](deep/m16.webp)
+
+- Nebulosas del **Corazón** y el **Alma** (debajo de *Casiopea*).
+
+![Nebulosas del Corazón y el Alma](deep/heart-soul-nebula.jpg)
 
 ### Planetarias
 Son **gases** expulsados por la **enana blanca** apagándose en el centro.
@@ -126,7 +138,7 @@ Son **gases** expulsados por la **enana blanca** apagándose en el centro.
 
 ### Supernova
 Restos de una **supernova**: estrella masiva al final de su vida antes de convertirse en un púlsar o un agujero negro.
-- *M1* Nebulosa del Cangrejo (en *Tauro*).
+- *M1* Nebulosa del **Cangrejo** astrónomos Chinos documentaron su explosión en el año 1054 (en el primer cuerno de *Tauro*).
 
 ![Nebulosa del Cangrejo](deep/crab-nebula.jpg)
 
