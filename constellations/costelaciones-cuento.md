@@ -6,12 +6,10 @@ Hércules, cangrejo, león, dragón, hidra, cuervo, copa, centauro, corona sur
 Orión, tauro, perro pequeño, perro grande, liebre, escorpión
 # Bootes y Acuario
 Bootes, perros, osa mayor, osa menor, lobo
-Acuario, río, águila
+Acuario, río, águila, cisne, lira (triángulo estival)
 # Leyendas
 - Geminis
 - Libra
-- Cisne
-- Lira
 - Altar
 - Ofiuco, serpiente
 # Animales del norte

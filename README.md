@@ -12,10 +12,13 @@
 ![Analema](sun/analema-sicily.jpg)
 
 ## 🌕 Luna
-- Luna > Fases > Salida y puesta de luna
-- La tierra es 4 x luna está a 30 x tierras de distancia y pesa 80 x lunas
+- Luna > Fases > Salida y puesta de luna.
+- La tierra es **4 x luna** está a **30 x tierras** de distancia y pesa **80 x lunas**.
 
 ![Tierra y Luna a escala de 500km por pixel](moon/earth-moon-scale-500kmPerpx.jpg)
+
+- **No** tiene **atmósfera** ni placas **tectónicas** porque su centro no está suficientemente caliente para fundir y mover la roca de la corteza.
+- Los **mares** son lava solidificada desde su formación y las **cráteres** impactos de metroritos.
 
 ![Mapa de la Luna](moon/moon-map.jpg)
 
@@ -50,7 +53,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ### Júpiter
 - (1 Júpiter = 11 x Tierras)
-- Las 4 lunas galileanas se pueden ver con prismáticos.
+- Las 4 lunas galileanas se pueden ver con prismáticos y tienen las orbitas sincrozadas a razón de 1:2:4:10.
 - **67 lunas** en total, una es más grande que *Mercurio*.
 - Gira muy rápido provocando muchos huracanes.
 ### Saturno
@@ -72,12 +75,20 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 # Espacio profundo
 - El **catálogo Messier** tiene los objetos más fáciles de observar en el hemisferio norte.
-- En el centro de la **Vía Láctea** hay muchos **cúmulos** de estrellas.
-- En el brazo del *Sol* hay muchos *cúmulos abiertos*. Hacia el centro y en otros brazos *cúmulos globulares*.
-- Alejado de la *Vía Láctea* entre *Virgo* y *Leo* hay *cúmulos* de **galaxias**.
+- A partir de 2 millones de años luz empezamos a ver otras *galaxias*. Entre *Virgo* y *Leo* podemos ver un *cúmulo* de **galaxias**.
 - **Maratón Messier** para ver lo 110 objetos del catálogo en una sola noche. 
 
 ![Espacio profundo de Hubble](deep/hubble-deep-field.jpg)
+
+## 💫 Vía Láctea
+- En el brazo de la **Vía Láctea** donde está el *Sistema Solar* hay muchos *cúmulos abiertos* y *nebulosas* a menos 10000 años luz.
+- Hacia el centro de la **Vía Láctea** y en otros brazos a partir de 6000 años luz vemos *cúmulos globulares*.
+
+![Vía Láctea en el cielo de verano](milkyway/milky-way-summer.jpg)
+
+- En el centro de la **Vía Láctea** hay un agujero negro supermaviso llamado *Sagitario A**.
+
+![Estrellas orbitando Sagitario A*](milkyway/esocast-173-milkyway-blackhole.gif)
 
 ## ✨ Constelaciones
 - 88 en total, 48 clásicas de *Ptolomeo*, 12 del *Zodiaco*.
@@ -95,7 +106,8 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - **Betelgeuse** en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
 - **Vega** fue la estrella polar al inicio de la civilización (12000 a.C.) con magnitud 0 y parte del *triángulo estival* con **Altair** y **Deneb** (que reposan en vía *Vía Láctea*).
 - *M45* **Pléyades** (7 estrellas cercanas en el culo de *Tauro*).
-- **M31** Cúmulo globular (en el sobaco de *Hércules*).
+- **M13** Cúmulo globular (en el sobaco de *Hércules*).
+- **M3** Cúmulo globular (a la derecha de *Bootes*).
 
 ## 🌌 Galaxias
 - *M31* **Andrómeda** (apunta una punta de *Casiopea*) tiene galaxias satélites. Nos chocamos y fusionamos con ella dentro de 6000 millones de años.
@@ -127,7 +139,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ### Planetarias
 Son **gases** expulsados por la **enana blanca** apagándose en el centro.
-- *M27* Nebulosa **Dumbbell** (en la cola de *Vulpecula*).
+- *M27* Nebulosa **Dumbbell** (entre *Vulpecula* y *Sagitta*, en medio del triángulo de verano).
 - *M57* Nebulosa del **Anillo** (en la sujección de las cuerdas de *Lira*).
 
 ![Nebulosa del Anillo](deep/ring-nebula.webp)
@@ -158,7 +170,7 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 - **URSS**: Laika, Sputnik, Gagarin, Venera
 - **NASA**: Apollo, Pioneer, Voyager
 - **Internacional**: ISS
-- **Marte**: Curiosity, Oportunity, Perseverance
+- **Marte**: Curiosity, Oportunity, Perseverance, Ingenuity
 - **Saturno**: Cassini-Huygens
 - **SpaceX**: StarLink, cohetes reutilizables
 - **Telescopios**: Hubble, Keppler James Webb
