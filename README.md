@@ -22,10 +22,19 @@
 
 ![Mapa de la Luna](moon/moon-map.jpg)
 
+- En un **eclipse** lunar la tierra bloquea toda la *luz* menos la *roja* que se difumina con la atmósfera y llega a la luna.
+- No hay eclipses *cada mes* por la *inclinación* de la órbita de la luna y no hay eclipses *cada año* por la *precesión* de esta órbita.
 ## 🛰️ Satélites
+- Hay millones de satélites y restos de misiones espaciales en órbita:
+
+![Restos en órbita](satellites/debris.jpg)
+
 - Órbitas > Geoestacionaria (alta) (meteo y comms) (36000km) > Polar (media) (navegación) > LEO (baja) (comms y observación terrestre) > Lagrange
 - ISS (Estación Espacial Internacional) LEO, 2h, 2000km, 8km/s
+
 - StarLink (en línea al lanzamiento)
+
+![StarLink al lanzamiento](satellites/starlink.jpg)
 
 ## 🪐 Planetas
 Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorario respecto al polo norte.
@@ -59,7 +68,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ### Saturno
 - (1 Saturno = 9 x Tierras)
 - Poco denso, **flotaría** en el agua.
-- Su anillos tienen 100 metros de grosor.
+- Su **anillos** tienen sólo **100 metros** de grosor y se forman porque diferencia de fuerza de gravedad del planeta es más fuerte que la gravedad de la luna.
 ### Urano
 - (1 Urano = 4 x Tierras)
 - Su descubridor lo llamó **Jorge**.
@@ -101,13 +110,15 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ## ⭐ Estrellas
 - La mayoría de las estrellas más luminosas son **binarias** y están en la **Vía Láctea**.
+- Las estrellas **grandes** son **azules**, se consumen **rápido** y mueren en **supernovas**.
+- Las **pequeñas** son **rojas**, viven mucho terminan siendo **enanas marrones**.
 - **Sirio** es la más luminosa, nariz de *Canis Maior*, le apunta el cinturón de *Orión*.
 - **Alfa Centauri** es el sistemas solar más cercano a 4 años luz.
 - **Betelgeuse** en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
 - **Vega** fue la estrella polar al inicio de la civilización (12000 a.C.) con magnitud 0 y parte del *triángulo estival* con **Altair** y **Deneb** (que reposan en vía *Vía Láctea*).
-- *M45* **Pléyades** (7 estrellas cercanas en el culo de *Tauro*).
-- **M13** Cúmulo globular (en el sobaco de *Hércules*).
-- **M3** Cúmulo globular (a la derecha de *Bootes*).
+- *M45* Las **Pléyades** con estrellas jóvenes con el polvo aún a su alrededor (cúmulo *abierto* 7 estrellas en el culo de *Tauro*).
+- **M13** Cúmulo *globular* (en el sobaco de *Hércules*).
+- **M3** Cúmulo *globular* (a la derecha de *Bootes*).
 
 ## 🌌 Galaxias
 - *M31* **Andrómeda** (apunta una punta de *Casiopea*) tiene galaxias satélites. Nos chocamos y fusionamos con ella dentro de 6000 millones de años.
@@ -115,7 +126,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - *M33* **Triángulo** (entre el *Triángulo* y *Andrómeda*).
 - *M87* Chorro de plasma parte de un cúmulo de galaxias donde se hizo la primera foto de un agujero negro (en la mano de *Virgo*).
 
-![Chorro de plasma](deep/M87-jet.jpg)
+![Chorro de plasma](deep/m87-jet.jpg)
 
 - *NGC 5139* Cúmulo *Omega Centauri* (en el lomo del *Centaruro*).
 - *M104* **Sombrero** (entre *Virgo* y *Corvus*).
@@ -172,5 +183,8 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 - **Internacional**: ISS
 - **Marte**: Curiosity, Oportunity, Perseverance, Ingenuity
 - **Saturno**: Cassini-Huygens
-- **SpaceX**: StarLink, cohetes reutilizables
+
+![Última imagen de Cassini](satellites/cassini-last-images.jpg)
+
+- **SpaceX**: StarLink, Falcon 9 (cohetes reutilizables)
 - **Telescopios**: Hubble, Keppler James Webb

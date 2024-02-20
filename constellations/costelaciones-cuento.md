@@ -1,3 +1,12 @@
+# Explicación
+Los *agujeros* son **estrellas** en el cielo.
+En las páginas **blancas** las *líneas* unen los agujeros formando figuras que se llaman **constelaciones**.
+Nos sirven como mapa del cielo y tienen *nombres* y *mitos* para recordarlas.
+Con los **agujeros** puedes jugar a encajar la **constelación** con las **estrellas** del cielo.
+En las páginas **negras** está el cielo como lo veriamos con *supervisión*:
+- Sin ninguna otra luz del Sol, Luna, farolas, coches, móviles... ni el bloqueo de la atmósfera.
+- Aumentado el tamaño y capturando mucha luz con un telescopio.
+- Usando trucos fotográficos para componer, retocar y eliminar ruido.
 # Perseo
 Perseo, Andrómeda, Casiopea, Cefeo, ballena, Pegaso, caballo
 # Hércules
