@@ -10,6 +10,7 @@
 ![Camino del Sol](sun/sun-path.jpg)
 ![Ecuación del Tiempo](sun/equation-of-time.jpg)
 ![Analema](sun/analema-sicily.jpg)
+![Superficie del Sol](sun/sun.jpg)
 
 ## 🌕 Luna
 - Luna > Fases > Salida y puesta de luna.
@@ -39,10 +40,11 @@
 ## 🪐 Planetas
 Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorario respecto al polo norte.
 ### Mercurio
-- (1 Tierra = 2 x Mercurios)
+- (*1 Tierra = 2 x Mercurios*)
 - Su día dura más que su año.
 - Se pueden ver dos amaneceres en el mismo día por el movimiento retrógrado del Sol.
 ### Venus
+- Tamaño similar a la *Tierra*.
 - Sólo se ve al amanecer o al atardecer de ahí los nombres: **Lucero matutino / vespertino**.
 - Podemos ver sus **fases**, como la Luna.
 - Su atmósfera provoca un efecto invernadero infernal y **llueve ácido sulfúrico**.
@@ -53,7 +55,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ### La Tierra
 - Tiene la **luna** más **grande** del *Sistema Solar* proporcionalmente (1 Tierra = 4 x Lunas)
 ### Marte
-- (1 Tierra = 2 x Martes)
+- (*1 Tierra = 2 x Martes*)
 - Tiene la **montaña** más **alta** del *Sistema Solar* 2.5 veces más alta que el *Everest*.
 - Tiene el **cañón** más **largo**, ancho y **profundo** del *Sistema Solar* 10 veces el Cañón del Colorado (ocuparía todo EEUU).
 - Las zonas **bajas** tiene zonas **altas** en sus **antípodas** (Hellas / Alba), (Tharsis / Utopia), (Argyre / Elysium).
@@ -61,26 +63,36 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ![Mapa de la Marte](planets/mars.jpg)
 
 ### Júpiter
-- (1 Júpiter = 11 x Tierras)
-- Las 4 lunas galileanas se pueden ver con prismáticos y tienen las orbitas sincrozadas a razón de 1:2:4:10.
-- **67 lunas** en total, una es más grande que *Mercurio*.
+- (*1 Júpiter = 11 x Tierras*)
 - Gira muy rápido provocando muchos huracanes.
+- **67 lunas** en total, las 4 lunas galileanas se pueden ver con prismáticos, tienen nombres de las amantes de *Zeus* y tienen las orbitas sincrozadas a razón de 1:2:4:10.
+- **Io** es el objeto más **volcánico** del *Sistema Solar*.
+- **Ganímedes** es la luna más **grande** del *Sistema Solar*, más grande que *Mercurio* y genera un **campo magnético**.
+- **Calisto** es el objeto con más **cráteres** del *Sistema Solar*.
+- **Europa**, **Ganímedes** y **Calisto** tienen **océanos** subterráneos de **agua**.
+
+![Júpiter de la sonda Juno compuesta y ajutada de color](planets/jupiter.jpg)
+
 ### Saturno
-- (1 Saturno = 9 x Tierras)
+- (*1 Saturno = 9 x Tierras*)
 - Poco denso, **flotaría** en el agua.
 - Su **anillos** tienen sólo **100 metros** de grosor y se forman porque diferencia de fuerza de gravedad del planeta es más fuerte que la gravedad de la luna.
+
+![Saturno a contraluz de la sonda Cassini-Huygens](planets/saturn-cassini.jpg)
+
 ### Urano
-- (1 Urano = 4 x Tierras)
+- (*1 Urano = 4 x Tierras*)
 - Su descubridor lo llamó **Jorge**.
 - Su **eje** de rotación con casi **90º** respecto a su órbita.
 ### Neptuno
-- (1 Neptuno = 4 x Tierras)
+- (*1 Neptuno = 4 x Tierras*)
 - Se **predijo** su existencia antes de ser observado.
 - Llueven **diamantes**.
 - Su luna más grande gira al revés, tiene un órbita muy inclinada, criovolcanes activos y es más grande que *Plutón*.
 ### Planeta 9
-- *Plutón* fue un planeta, pero era muy pequeño (1 Tierra = 5 x Plutones) y con una órbita fuera del plano del resto.
-- Puede que exista otro planeta pero no se ha confirmado.
+- *Plutón* fue un planeta, pero era es un **planeta enano** pequeño (*1 Tierra = 5 x Plutones*), con muchos asteroides cerca y con una órbita fuera del plano del resto.
+- *Vulcano* es un **planeta inventado** para explicar la precesión de la órbita de *Mercurio* antes de conocer la *relatividad general*.
+- Puede que exista otro **planeta no observad** con una órbita muy grande, pero no se ha confirmado.
 
 # Espacio profundo
 - El **catálogo Messier** tiene los objetos más fáciles de observar en el hemisferio norte.

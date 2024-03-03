@@ -12,15 +12,16 @@ Perseo, Andrómeda, Casiopea, Cefeo, ballena, Pegaso, caballo
 # Hércules
 Hércules, cangrejo, león, dragón, hidra, cuervo, copa, centauro, corona sur
 # Orión
-Orión, tauro, perro pequeño, perro grande, liebre, escorpión
+Orión, tauro, perro pequeño, perro grande, liebre
 # Bootes y Acuario
 Bootes, perros, osa mayor, osa menor, lobo
 Acuario, río, águila, cisne, lira (triángulo estival)
+# Rho Ophiuchi Cloud Complex (https://commons.wikimedia.org/w/index.php?curid=7841465)
+- Ofiuco, serpiente, escorpión, sagitario
 # Leyendas
 - Geminis
 - Libra
 - Altar
-- Ofiuco, serpiente
 # Animales del norte
 - Jirafa
 - Zorrita
@@ -47,7 +48,6 @@ Acuario, río, águila, cisne, lira (triángulo estival)
 - Piscis
 - Aries
 # Herramientas
-- Sagitario
 - Flecha
 - Escudo
 - Triángulo
