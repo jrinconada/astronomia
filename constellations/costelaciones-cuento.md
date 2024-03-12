@@ -16,7 +16,8 @@ Orión, tauro, perro pequeño, perro grande, liebre
 # Bootes y Acuario
 Bootes, perros, osa mayor, osa menor, lobo
 Acuario, río, águila, cisne, lira (triángulo estival)
-# Rho Ophiuchi Cloud Complex (https://commons.wikimedia.org/w/index.php?curid=7841465)
+# Centro de la Vía Láctea 
+- Rho Ophiuchi Cloud Complex (https://commons.wikimedia.org/w/index.php?curid=7841465)
 - Ofiuco, serpiente, escorpión, sagitario
 # Leyendas
 - Geminis

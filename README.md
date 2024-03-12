@@ -19,7 +19,7 @@
 ![Tierra y Luna a escala de 500km por pixel](moon/earth-moon-scale-500kmPerpx.jpg)
 
 - **No** tiene **atmósfera** ni placas **tectónicas** porque su centro no está suficientemente caliente para fundir y mover la roca de la corteza.
-- Los **mares** son lava solidificada desde su formación y las **cráteres** impactos de metroritos.
+- Los **mares** son lava solidificada desde su formación y las **cráteres** impactos de meteoritos.
 
 ![Mapa de la Luna](moon/moon-map.jpg)
 
@@ -67,7 +67,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - Gira muy rápido provocando muchos huracanes.
 - **67 lunas** en total, las 4 lunas galileanas se pueden ver con prismáticos, tienen nombres de las amantes de *Zeus* y tienen las orbitas sincrozadas a razón de 1:2:4:10.
 - **Io** es el objeto más **volcánico** del *Sistema Solar*.
-- **Ganímedes** es la luna más **grande** del *Sistema Solar*, más grande que *Mercurio* y genera un **campo magnético**.
+- **Ganímedes** es la luna más **grande** del *Sistema Solar* (más grande que *Mercurio*) y genera un **campo magnético**.
 - **Calisto** es el objeto con más **cráteres** del *Sistema Solar*.
 - **Europa**, **Ganímedes** y **Calisto** tienen **océanos** subterráneos de **agua**.
 
@@ -92,18 +92,18 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ### Planeta 9
 - *Plutón* fue un planeta, pero era es un **planeta enano** pequeño (*1 Tierra = 5 x Plutones*), con muchos asteroides cerca y con una órbita fuera del plano del resto.
 - *Vulcano* es un **planeta inventado** para explicar la precesión de la órbita de *Mercurio* antes de conocer la *relatividad general*.
-- Puede que exista otro **planeta no observad** con una órbita muy grande, pero no se ha confirmado.
+- Puede que exista otro **planeta no observado** con una órbita muy grande, pero no se ha confirmado.
 
 # Espacio profundo
 - El **catálogo Messier** tiene los objetos más fáciles de observar en el hemisferio norte.
-- A partir de 2 millones de años luz empezamos a ver otras *galaxias*. Entre *Virgo* y *Leo* podemos ver un *cúmulo* de **galaxias**.
+- A partir de 2 millones de años luz se empiezan a ver otras *galaxias*. Entre los brazos de *Virgo* hay un *cúmulo* de **galaxias** del que el *Grupo Local* de galaxias donde está la *vía láctea* es miembro.
 - **Maratón Messier** para ver lo 110 objetos del catálogo en una sola noche. 
 
 ![Espacio profundo de Hubble](deep/hubble-deep-field.jpg)
 
 ## 💫 Vía Láctea
-- En el brazo de la **Vía Láctea** donde está el *Sistema Solar* hay muchos *cúmulos abiertos* y *nebulosas* a menos 10000 años luz.
-- Hacia el centro de la **Vía Láctea** y en otros brazos a partir de 6000 años luz vemos *cúmulos globulares*.
+- En el brazo de la **Vía Láctea** donde está el *Sistema Solar* hay muchos *cúmulos abiertos* y *nebulosas* a menos 10000 años luz, se llama **Orión** porque está cerca de esta constelación, alejado de **Escorpio** y **Sagitario** donde esta el centro.
+- Los *cúmulos globulares* orbitan la **Vía Láctea** a partir de 6000 años luz.
 
 ![Vía Láctea en el cielo de verano](milkyway/milky-way-summer.jpg)
 
@@ -115,7 +115,8 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - 88 en total, 48 clásicas de *Ptolomeo*, 12 del *Zodiaco*.
 - Las 12 del *Zodiaco* cerca de la *eclíptica*.
 - La designación de *Bayer* asigna una letra griega por orden de luminosidad a cada estrella de la constelación.
-- Las cercanas al norte están visibles todo el año.
+- La designación de *Flamsteed* asigna un número por orden de ascensión recta a cada estrella de la constelación del hemisferio norte. La designación *Gould* es lo mismo para el hemisferio sur.
+- Las cercanas al zenit (norte / sur celeste) están visibles todo el año.
 - Las cercanas al horizonte se ven en los dos hemisferios.
 - Osa Mayor > Estrella Polar > Osa menor > Casiopea > Hora sideral
 - Las constelaciones del hemisferio sur se nombraron en la era moderna: *octante*, *sextante*, *brújula*, *reloj*, *telescopio*, *microscopio*, *máquina neumática*, *barco*, *velas*, *quilla*...
@@ -125,7 +126,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - Las estrellas **grandes** son **azules**, se consumen **rápido** y mueren en **supernovas**.
 - Las **pequeñas** son **rojas**, viven mucho terminan siendo **enanas marrones**.
 - **Sirio** es la más luminosa, nariz de *Canis Maior*, le apunta el cinturón de *Orión*.
-- **Alfa Centauri** es el sistemas solar más cercano a 4 años luz.
+- **Alfa Centauri** es el sistema solar más cercano a 4 años luz.
 - **Betelgeuse** en el cinturón de *Orión*, es **764** veces más **grande** que el Sol.
 - **Vega** fue la estrella polar al inicio de la civilización (12000 a.C.) con magnitud 0 y parte del *triángulo estival* con **Altair** y **Deneb** (que reposan en vía *Vía Láctea*).
 - *M45* Las **Pléyades** con estrellas jóvenes con el polvo aún a su alrededor (cúmulo *abierto* 7 estrellas en el culo de *Tauro*).
@@ -146,6 +147,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ![Galaxia del Sombrero](deep/sombrero-galaxy.jpg)
 
 ## ☁️ Nebulosas
+Son el nacimiento (nebulosas de *emisión* o *absorción*) o la muerte de estrellas (nebulosas *planetarias* o *supenovas*).
 ### Formación estelar
 - *M42* Nebulosa de **Orión** (debajo del cinturón). Parte del complejo de nebulosas de absorción como el *caballo*, la *bruja* o la supernova *bucle de Barnard*.
 
@@ -184,10 +186,15 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 
 ![Niveles de magnitud](sun/magnitud.png)
 
+- **Distancias**: Unidad Astronómica, Parsec, año luz, paralaje, candelas estándar
 - **Telescopios**: refractor, reflector (Newtoniano), Cassegrain
 - **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (GoTo, Tracker)
 - **Calibración**: Lights (información), Darks (ruido), Flats (polvo y viñeta)
 - **Edición**: Stacking, histograma, curvas de color
+- **Very Large Telescope**: Refleja láseres en la atmósfera para medir la oscilación y la cancela deformando el espejo del telescopio.
+- **Event Horizon Telescope**: Red de radiotelescopios esparcidos por el mundo que hicieron las fotos de los agujeros negros en *M87* y *Sgr A*.
+
+![Comparativa de telescopios](observation/telescope-mirrors.svg)
 
 ## Misiones
 - **URSS**: Laika, Sputnik, Gagarin, Venera
