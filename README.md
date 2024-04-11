@@ -187,7 +187,7 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 ![Niveles de magnitud](sun/magnitud.png)
 
 - **Distancias**: Unidad Astronómica, Parsec, año luz, paralaje, candelas estándar
-- **Telescopios**: refractor, reflector (Newtoniano), Cassegrain
+- **Telescopios**: refractor, reflector (Newtoniano, Dobsoniano), catadióptrico (Schmidt-Cassegrain)
 - **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (GoTo, Tracker)
 - **Calibración**: Lights (información), Darks (ruido), Flats (polvo y viñeta)
 - **Edición**: Stacking, histograma, curvas de color
@@ -207,3 +207,9 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 
 - **SpaceX**: StarLink, Falcon 9 (cohetes reutilizables)
 - **Telescopios**: Hubble, Keppler James Webb
+
+### Mensajes
+- **Arecibo**
+- **Voyager**
+- **Legos**
+- **Europa**
