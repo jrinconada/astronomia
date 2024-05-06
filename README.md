@@ -84,10 +84,11 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 - (*1 Urano = 4 x Tierras*)
 - Su descubridor lo llamó **Jorge**.
 - Su **eje** de rotación con casi **90º** respecto a su órbita.
+- Tiene océanos y lluvia de **diamantes**.
 ### Neptuno
 - (*1 Neptuno = 4 x Tierras*)
 - Se **predijo** su existencia antes de ser observado.
-- Llueven **diamantes**.
+- Tiene el **viento** más rápido del *Sistema Solar*.
 - Su luna más grande gira al revés, tiene un órbita muy inclinada, criovolcanes activos y es más grande que *Plutón*.
 ### Planeta 9
 - *Plutón* fue un planeta, pero era es un **planeta enano** pequeño (*1 Tierra = 5 x Plutones*), con muchos asteroides cerca y con una órbita fuera del plano del resto.
@@ -103,6 +104,7 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ## 💫 Vía Láctea
 - En el brazo de la **Vía Láctea** donde está el *Sistema Solar* hay muchos *cúmulos abiertos* y *nebulosas* a menos 10000 años luz, se llama **Orión** porque está cerca de esta constelación, alejado de **Escorpio** y **Sagitario** donde esta el centro.
+- En *invierno* la cara de la tierra opuesta al Sol apunta hacia afuera del brazo, donde está **Orión**. En *verano* apunta al centro de la **Vía Láctea**, donde está **Escorpio**. En *otoño* y *primavera* apunta hacia fuera, permitiendo ver otras *galaxias*, en primavera hay más porque en esa dirección están las más cercanas del **Cúmulo Local**.
 - Los *cúmulos globulares* orbitan la **Vía Láctea** a partir de 6000 años luz.
 
 ![Vía Láctea en el cielo de verano](milkyway/milky-way-summer.jpg)
@@ -210,6 +212,7 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 
 ### Mensajes
 - **Arecibo**
-- **Voyager**
+- **Voyager** y **Pioneer**
 - **Legos**
 - **Europa**
+- **Lincos** y **CosmicOS**
