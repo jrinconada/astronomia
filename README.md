@@ -222,8 +222,15 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 - **Telescopios**: *Hubble*, *Keppler James Webb*
 
 ## Mensajes
-- **Arecibo**
-- **Voyager** y **Pioneer**
+- **Arecibo**: Se envía en *1974* hacia *M13* y en 2001 aparace una respuesta en un campo de maíz.
+
+![Explicación del mensaje de Arecibo](messages/arecibo-message.jpg)
+
+- **Pioneer** y **Voyager**: *Pioneer 10*, *Pioneer 11*, *Voyager 1* y *Voyager 2* son 4 sondas lanzadas en los *70* y *New Horizons* en *2006* con **placas** y un **disco** de oro con imagenes, sonidos, saludos y música.
+
+![Explicación del disco del Voyager](messages/voyager-disc.jpg)
+
 - **Legos**
-- **Europa**
-- **Lincos** y **CosmicOS**
+- **Europa Clipper**: Sonda enviada en *2024* para estudiar el océano subterráneo de una luna de *Júpiter*. Se adjunta una placa con un **poema** y un **microchip** con nombres escritos con letras de 75 nanómetros.
+- **Lincos**: *Lingua cosmica* usando un diccionario con ejemplos, empezando por conceptos (*> < = + -*), números unarios (*. .. ...*), matemáticas, lógica, conjuntos, palabras, conversación y física.
+- **CosmicOS**: Sistema operativo inspirado por *Lincos* que usa sólo 4 símbolos.
