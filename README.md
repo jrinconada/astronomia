@@ -191,8 +191,8 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 - **Distancias**: Unidad Astronómica, Parsec, año luz, paralaje, candelas estándar
 - **Telescopios**: refractor, reflector (Newtoniano, Dobsoniano), catadióptrico (Schmidt-Cassegrain)
 - **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (GoTo, Tracker)
-- **Calibración**: Lights (información), Darks (ruido), Flats (polvo y viñeta)
-- **Edición**: Stacking, histograma, curvas de color
+- **Calibración**: Lights (información), Darks (ruido termal), Flats (polvo y viñeta) y Bias (ruido de cámara)
+- **Edición**: Stacking (combinación para detectar y eliminar ruido), histograma, curvas de color (contraste no lineal), balance de blancos (color falso)
 - **Very Large Telescope**: Refleja láseres en la atmósfera para medir la oscilación y la cancela deformando el espejo del telescopio.
 - **Event Horizon Telescope**: Red de radiotelescopios esparcidos por el mundo que hicieron las fotos de los agujeros negros en *M87* y *Sgr A*.
 
