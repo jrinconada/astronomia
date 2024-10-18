@@ -148,13 +148,14 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ![Galaxia del Sombrero](deep/sombrero-galaxy.jpg)
 
+### Conjuntos de galaxias
+- **Virgo**
+- **Hércules**
+
 ## ☁️ Nebulosas
 Son el nacimiento (nebulosas de *emisión* o *absorción*) o la muerte de estrellas (nebulosas *planetarias* o *supenovas*).
 ### Formación estelar
-- *M42* Nebulosa de **Orión** (debajo del cinturón). Parte del complejo de nebulosas de absorción como el *caballo*, la *bruja* o la supernova *bucle de Barnard*.
-
-![Complejo de Orión](deep/orion-complex.jpg)
-
+- *M42* Nebulosa de **Orión** (debajo del cinturón) (es la única visible con el ojo desnudo).
 - *M8* Nebulosa del **Lago** (encima del brazo de *Sagitario*).
 - *M16* **Pilares de la Creación** o Nebulosa del *Águila*.
 
@@ -181,36 +182,46 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 
 ![Nebulosa del Cangrejo](deep/crab-nebula.jpg)
 
-## 🔭 Observación
+## Complejos moleculares
+- **Orión**: Complejo de nebulosas de absorción como el *caballo*, la *bruja* o la supernova *bucle de Barnard*.
+- **Rho Ophiuci**: También en la constelación de *Escorpio*
+- **Tauro**
+- **Perseo**: También en la constelación de *Auriga*
+- **Cisne**
+- Fisura de **Aquila**: en *Serpens* y *Aquila*
+
+![Complejo de Orión](deep/orion-complex.jpg)
+
+# 🔭 Observación
 - **Parámetros**: Apertura, distancia focal, magnificación
-- **Filtros**: color, contaminación, Ha, Oiii, Sii
+- **Filtros**: color, contaminación, *Ha*, *Oiii*, *Sii*
 - **Luz**: Niveles de magnitud y escala Brotle
 
 ![Niveles de magnitud](sun/magnitud.png)
 
 - **Distancias**: Unidad Astronómica, Parsec, año luz, paralaje, candelas estándar
-- **Telescopios**: refractor, reflector (Newtoniano, Dobsoniano), catadióptrico (Schmidt-Cassegrain)
-- **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (GoTo, Tracker)
-- **Calibración**: Lights (información), Darks (ruido termal), Flats (polvo y viñeta) y Bias (ruido de cámara)
-- **Edición**: Stacking (combinación para detectar y eliminar ruido), histograma, curvas de color (contraste no lineal), balance de blancos (color falso)
+- **Telescopios**: refractor, reflector (*Newtoniano*, *Dobsoniano*), catadióptrico (*Schmidt-Cassegrain*)
+- **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (*GoTo*, *Tracker*)
+- **Calibración**: *Lights* (información), *Darks* (ruido térmico), *Flats* (polvo y viñeta) y *Bias* (ruido de cámara)
+- **Edición**: *Stacking* (combinación para detectar y eliminar ruido), histograma (recuperar información orcura), curvas de color (contraste no lineal), balance de blancos (color falso)
 - **Very Large Telescope**: Refleja láseres en la atmósfera para medir la oscilación y la cancela deformando el espejo del telescopio.
-- **Event Horizon Telescope**: Red de radiotelescopios esparcidos por el mundo que hicieron las fotos de los agujeros negros en *M87* y *Sgr A*.
+- **Event Horizon Telescope**: Red de radiotelescopios esparcidos por el mundo que hicieron las fotos de los agujeros negros en *M87* y *Sgr A**.
 
 ![Comparativa de telescopios](observation/telescope-mirrors.svg)
 
 ## Misiones
-- **URSS**: Laika, Sputnik, Gagarin, Venera
-- **NASA**: Apollo, Pioneer, Voyager
-- **Internacional**: ISS
-- **Marte**: Curiosity, Oportunity, Perseverance, Ingenuity
-- **Saturno**: Cassini-Huygens
+- **URSS**: *Laika*, *Sputnik*, *Gagarin*, *Venera*, *Soyuz* (la nave más utilizada)
+- **NASA**: *Apollo*, *Pioneer*, *Voyager*
+- **Internacional**: *ISS*
+- **Marte**: *Curiosity*, *Oportunity*, *Perseverance*, *Ingenuity*
+- **Saturno**: *Cassini-Huygens*
 
 ![Última imagen de Cassini](satellites/cassini-last-images.jpg)
 
-- **SpaceX**: StarLink, Falcon 9 (cohetes reutilizables)
-- **Telescopios**: Hubble, Keppler James Webb
+- **SpaceX**: *StarLink*, *Falcon 9* (cohetes reutilizables)
+- **Telescopios**: *Hubble*, *Keppler James Webb*
 
-### Mensajes
+## Mensajes
 - **Arecibo**
 - **Voyager** y **Pioneer**
 - **Legos**
