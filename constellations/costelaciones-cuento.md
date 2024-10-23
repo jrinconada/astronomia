@@ -48,16 +48,26 @@ Acuario, río, águila, cisne, lira (triángulo estival)
 - Capricornio
 - Piscis
 - Aries
-# Herramientas
-- Flecha
-- Escudo
-- Triángulo
-- Triángulo del sur
-# Ciencia y Arte
-Caballete, Taller de escultor, Cincel, Horno
-Microscopio, Telescopio, Máquina neumática
+# Arte y Ciencia
+- Caballete, Taller de escultor, Cincel, Horno
+- Microscopio, Telescopio, Máquina neumática
 # Barco y Navegación
-Quilla, Popa, Velas, Brújula, Sextante, Octante, Retículo, Escuadra, Compás, Reloj
+Quilla, Popa, Velas, Brújula, Sextante, Octante, Retículo, Regla, Compás, Reloj, Escuadra
+## Instrucciones para ir en barco
+1. Pon la **quilla** en el agua (la quilla es la parte abajo del barco, si lo pones al revés se hunde y te mueres),
+2. Poner la **popa** hacia la costa (la popa es la parte de atrás del barco, si la pones hacia el otro lado te das con la tierra y te mueres)
+3. Saca las **velas** para que el viento empuje al barco y se mueva.
+4. Mide la posición de las estrellas con un **sextante** o un **octante** (son medidores de ángulos sofisticados con un **retículo** para mirar)
+5. Mira la hora (en el **reloj**) para saber cuando llegas.
+6. Consulta un catálogo de posición de las estrellas según la hora para estimar dónde estás. 
+7. Pon tu posición en el mapa.
+8. Pon tu destino en el mapa.
+9. Traza una línea entre los dos (con la **regla**)
+10. Mide la distancia (usa el **compás** y la regla de latitud del mapa, ya que es una proyección Mercator y las distancias de verticales están deformadas)
+11. Mide el ángulo de la dirección respecto al norte (con la **escuadra**)
+11. Gira el timón hasta que apuntes donde quieres ir (usa la **brújula** que siempre apunta al norte).
+12. Repite los pasos de 4. al 11. regularmente para ajustar el rumbo hasta llegar a tu destino.
+13. Cuando llegues a tu destino, frena para no chocarte (compra el próximo para aprender a frenar).
 # Otros
 - Virgo
 - Corona norte
@@ -66,3 +76,6 @@ Quilla, Popa, Velas, Brújula, Sextante, Octante, Retículo, Escuadra, Compás, 
 - Cruz del sur
 - Indio
 - Montaña de la Mesa
+- Flecha
+- Escudo
+- Triángulo
