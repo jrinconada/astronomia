@@ -115,7 +115,10 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ## ✨ Constelaciones
 - 88 en total, 48 clásicas de *Ptolomeo*, 12 del *Zodiaco*.
-- Las 12 del *Zodiaco* cerca de la *eclíptica*.
+- Las 12 del *Zodiaco* cerca de la *eclíptica*.ç
+
+![Alineación con constelaciones del Zodiaco](constellations/zodiac.jpg)
+
 - La designación de *Bayer* asigna una letra griega por orden de luminosidad a cada estrella de la constelación.
 - La designación de *Flamsteed* asigna un número por orden de ascensión recta a cada estrella de la constelación del hemisferio norte. La designación *Gould* es lo mismo para el hemisferio sur.
 - Las cercanas al zenit (norte / sur celeste) están visibles todo el año.
