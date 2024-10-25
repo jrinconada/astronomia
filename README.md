@@ -105,6 +105,9 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ## 💫 Vía Láctea
 - En el brazo de la **Vía Láctea** donde está el *Sistema Solar* hay muchos *cúmulos abiertos* y *nebulosas* a menos 10000 años luz, se llama **Orión** porque está cerca de esta constelación, alejado de **Escorpio** y **Sagitario** donde esta el centro.
 - En *invierno* la cara de la tierra opuesta al Sol apunta hacia afuera del brazo, donde está **Orión**. En *verano* apunta al centro de la **Vía Láctea**, donde está **Escorpio**. En *otoño* y *primavera* apunta hacia fuera, permitiendo ver otras *galaxias*, en primavera hay más porque en esa dirección están las más cercanas del **Cúmulo Local**.
+
+![Mapa galáctico](milkyway/milky-way-map.png)
+
 - Los *cúmulos globulares* orbitan la **Vía Láctea** a partir de 6000 años luz.
 
 ![Vía Láctea en el cielo de verano](milkyway/milky-way-summer.jpg)
