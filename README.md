@@ -207,13 +207,21 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 
 - **Distancias**: Unidad Astronómica, Parsec, año luz, paralaje, candelas estándar
 - **Telescopios**: refractor, reflector (*Newtoniano*, *Dobsoniano*), catadióptrico (*Schmidt-Cassegrain*)
-- **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (*GoTo*, *Tracker*)
+- **Monturas**: altazimutal (trípode, dobsoniana), equatorial (alineada con eje de rotación de la tierra), motorizada (*GoTo*, *Tracker*)
 - **Calibración**: *Lights* (información), *Darks* (ruido térmico), *Flats* (polvo y viñeta) y *Bias* (ruido de cámara)
 - **Edición**: *Stacking* (combinación para detectar y eliminar ruido), histograma (recuperar información orcura), curvas de color (contraste no lineal), balance de blancos (color falso)
 - **Very Large Telescope**: Refleja láseres en la atmósfera para medir la oscilación y la cancela deformando el espejo del telescopio.
 - **Event Horizon Telescope**: Red de radiotelescopios esparcidos por el mundo que hicieron las fotos de los agujeros negros en *M87* y *Sgr A**.
 
 ![Comparativa de telescopios](observation/telescope-mirrors.svg)
+
+## Distorsiones ópticas
+- La **aberración cromática** típica de telescopios refractores por enfocar en distinto plano cada color.
+- La **aberración esférica** se produce con lentes esféricas (telescopios refractores, los reflectores tienen espejos parabólicos).
+- El **coma** ocurre por desenfoque en los extremos con telescopios reflectores.
+- La **curvatura de campo** se da en telescopios con mucha apertura y mucha distancia focal el plano de enfoque es curvo se debe aplanar para coincidir con el sensor.
+
+![Distorsiones ópticas](observation/optical-distorsions.jpg)
 
 ## Misiones
 - **URSS**: *Laika*, *Sputnik*, *Gagarin*, *Venera*, *Soyuz* (la nave más utilizada)
