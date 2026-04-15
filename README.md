@@ -105,6 +105,9 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 ## 💫 Vía Láctea
 - En el brazo de la **Vía Láctea** donde está el *Sistema Solar* hay muchos *cúmulos abiertos* y *nebulosas* a menos 10000 años luz, se llama **Orión** porque está cerca de esta constelación, alejado de **Escorpio** y **Sagitario** donde esta el centro.
 - En *invierno* la cara de la tierra opuesta al Sol apunta hacia afuera del brazo, donde está **Orión**. En *verano* apunta al centro de la **Vía Láctea**, donde está **Escorpio**. En *otoño* y *primavera* apunta hacia fuera, permitiendo ver otras *galaxias*, en primavera hay más porque en esa dirección están las más cercanas del **Cúmulo Local**.
+
+![Mapa galáctico](milkyway/milky-way-map.png)
+
 - Los *cúmulos globulares* orbitan la **Vía Láctea** a partir de 6000 años luz.
 
 ![Vía Láctea en el cielo de verano](milkyway/milky-way-summer.jpg)
@@ -115,7 +118,10 @@ Se mueven cerca de la *eclíptica*. Rotan y orbitan el Sol en sentido antihorari
 
 ## ✨ Constelaciones
 - 88 en total, 48 clásicas de *Ptolomeo*, 12 del *Zodiaco*.
-- Las 12 del *Zodiaco* cerca de la *eclíptica*.
+- Las 12 del *Zodiaco* cerca de la *eclíptica*.ç
+
+![Alineación con constelaciones del Zodiaco](constellations/zodiac.jpg)
+
 - La designación de *Bayer* asigna una letra griega por orden de luminosidad a cada estrella de la constelación.
 - La designación de *Flamsteed* asigna un número por orden de ascensión recta a cada estrella de la constelación del hemisferio norte. La designación *Gould* es lo mismo para el hemisferio sur.
 - Las cercanas al zenit (norte / sur celeste) están visibles todo el año.
@@ -201,13 +207,21 @@ Restos de una **supernova**: estrella masiva al final de su vida antes de conver
 
 - **Distancias**: Unidad Astronómica, Parsec, año luz, paralaje, candelas estándar
 - **Telescopios**: refractor, reflector (*Newtoniano*, *Dobsoniano*), catadióptrico (*Schmidt-Cassegrain*)
-- **Monturas**: altazimutal (trípode, dobsoniana), equatorial, motorizada (*GoTo*, *Tracker*)
+- **Monturas**: altazimutal (trípode, dobsoniana), equatorial (alineada con eje de rotación de la tierra), motorizada (*GoTo*, *Tracker*)
 - **Calibración**: *Lights* (información), *Darks* (ruido térmico), *Flats* (polvo y viñeta) y *Bias* (ruido de cámara)
 - **Edición**: *Stacking* (combinación para detectar y eliminar ruido), histograma (recuperar información orcura), curvas de color (contraste no lineal), balance de blancos (color falso)
 - **Very Large Telescope**: Refleja láseres en la atmósfera para medir la oscilación y la cancela deformando el espejo del telescopio.
 - **Event Horizon Telescope**: Red de radiotelescopios esparcidos por el mundo que hicieron las fotos de los agujeros negros en *M87* y *Sgr A**.
 
 ![Comparativa de telescopios](observation/telescope-mirrors.svg)
+
+## Distorsiones ópticas
+- La **aberración cromática** típica de telescopios refractores por enfocar en distinto plano cada color.
+- La **aberración esférica** se produce con lentes esféricas (telescopios refractores, los reflectores tienen espejos parabólicos).
+- El **coma** ocurre por desenfoque en los extremos con telescopios reflectores.
+- La **curvatura de campo** se da en telescopios con mucha apertura y mucha distancia focal el plano de enfoque es curvo se debe aplanar para coincidir con el sensor.
+
+![Distorsiones ópticas](observation/optical-distorsions.jpg)
 
 ## Misiones
 - **URSS**: *Laika*, *Sputnik*, *Gagarin*, *Venera*, *Soyuz* (la nave más utilizada)
