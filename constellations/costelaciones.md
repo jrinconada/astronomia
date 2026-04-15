@@ -1,7 +1,7 @@
 # Zodiaco
 Las constelaciones que están en la eclíptica y se alinean con el Sol, una cada mes.
 ## Aquarius
-Un [camarero](#aquarius) que echa agua al [río](#eridanus) y *Zeus* lo rapta para llevárselo al *Olimpo* convertido en [águila](#aquila).
+Un [camarero guapo](#aquarius) que echa agua al [río](#eridanus) y *Zeus* lo rapta para llevárselo al *Olimpo* convertido en [águila](#aquila).
 ## Sagittarius
 Un [arquero](#sagittarius) que apunta al centro de la vía láctea, inventó tirar flechas y aplaudir.
 ## Scorpius
@@ -13,7 +13,7 @@ La [cabra pez](#capricornus) que cría a *Zeus* de pequeño.
 ## Pisces
 Son *Venus* y *Cupido*, madre e hijo transformados [peces unidos por una cuerda](#pisces) para no perderse.
 ## Taurus
-Una de las amantes de *Zeus* transformada en [vaca](#taurus), su mujer le envía un bicho para picarle un culo por toda la eternidad mientras por delante un [cazador](#orion) le tira flechas.
+Una de las amantes de *Zeus* transformada en [vaca](#taurus), su mujer le envía un bicho para picarle en el culo por toda la eternidad mientras por delante un [cazador](#orion) le tira flechas.
 ## Gemini
 El [gemelo](#gemini) inmortal le da la mitad de su inmortalidad al otro para salvarle la vida por lo que deben vivir la mitad del año en el infierno y la otra mitad en el cielo.
 ## Aries
@@ -27,8 +27,8 @@ Un [léon devorador](#leo) de personas y ganado que mata [Hércules](#hercules) 
 
 # Boreales
 Están en torno al norte celeste, visibles todo el año.
-## Camelopardus
-Una [jirafa](#camelopardus).
+## Camelopardalis
+Una [jirafa](#Camelopardalis) o literalmente camello con pecas.
 ## Casiopeia
 La [reina](#casiopeia), esposa de [Cefeo](#cepheus) y madre de la [Andrómeda](#andromeda) a la que condenan a morir devorada por un [monstruo marino](#cetus). Descansa tumbada sobre la vía láctea.
 ## Cepheus
@@ -47,7 +47,7 @@ Son las constelaciones visibles durante las noches de verano por estar alejadas 
 ## Cygnus
 *Zeus* se convierte en [cisne](#cygnus) para seducir a una chica. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la [lira](#lyra) forman el triángulo estival. Vuela sobre la vía láctea.
 ## Lyra
-La lira[#lyra] de *Orfeo* que toca música capaz de amansar fieras, seducir a mujeres y acallar a las sirenas. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la [lira](#lyra) forman el triángulo estival.
+La [lira](#lyra) de *Orfeo* que toca música capaz de amansar fieras, seducir a mujeres y acallar a las sirenas. El culo del [cisne](#cygnus), la cabeza del [águila](#aquila) y la [lira](#lyra) forman el triángulo estival.
 ## Hercules
 [Hijo bastardo de Zeus](#hercules) con la nieta de [Perseo](#perseus) que mata a toda su familia en un ataque de locura y como penitencia debe hacer 12 trabajos, como matar a un [león](#leo), un [dragón](#draco), una [serpiente marina de muchas cabezas](#hydra) y a un [cangrejo gigante](#cancer).
 ## Ara
@@ -65,7 +65,7 @@ El [escudo](#scutum) de un rey polaco. La única constelación dedicada una pers
 ## Vulpeluca
 Una [zorrita](#vulpeluca).
 ## Ophiuchus
-Es un [farmaceutico](#ophiuchus) representado llevando a una [serpiente](#serpens). *Zeus* lo mata por violar el orden natural de las cosas.
+Es un [farmaceutico](#ophiuchus) representado llevando a una [serpiente](#serpens). *Zeus* lo mata por violar el orden natural de las cosas. El Sol pasa por esta constelación también por lo que algunos la incluyen en Zodiaco.
 
 # Otoño
 Son las constelaciones visibles durante las noches de otoño por estar alejadas del Sol durante esos meses. También se incluyen las del Zodiaco contrarias a los meses cercanos.
@@ -74,7 +74,7 @@ Le corta la cabeza a *Medusa* y de su sangre nace un [caballo con alas](#pegasus
 ## Andromeda
 La [princesa presumida](#andromeda) hija de [Cefeo](#cepheus) y [Casiopea](#casiopeia), que la condenan a ser devorada por un [monstruo marino](#cetus) por creerse muy guapa. [Perseo](#perseus) la salva convirtiéndolo en piedra con la cabeza de *Medusa*.
 ## Pegasus
-[Caballo con alas](#pegasus) nacido de la sangre de cabeza de *Medusa* cortada por [Perseo](##perseus), hermano de del [caballo pequeño](#equuleus).
+[Caballo con alas](#pegasus) nacido de la sangre de cabeza de *Medusa* cortada por [Perseo](#perseus), hermano de del [caballo pequeño](#equuleus).
 ## Cetus
 Un [monstruo marino](#cetus) que intenta devorar a la [princesa presumida](#andromeda) pero [Perseo](#perseus) le convierte en piedra *Medusa*.
 ## Eridanus
@@ -91,7 +91,7 @@ Un [caballo pequeño](#equuleus) hermano del [caballo con alas](#pegasus) de [Pe
 # Invierno
 Son las constelaciones visibles durante las noches de invierno por estar alejadas del Sol durante esos meses. También se incluyen las del Zodiaco contrarias a los meses cercanos.
 ## Canis Maior
-El [perro grande](#canis-maior) con la nariz más luminosa del cielo (*Sirio*, que en verano sale a la vez que el Sol en los días más calurosos, los llamados, días perros). Junto al [perro pequeño](#canis-minor) acompañan al [cazador](#orion).
+El [perro grande](#canis-maior) con la nariz más luminosa del cielo (*Sirio*, que en verano sale a la vez que el Sol en los días más calurosos, los llamados, días perros). Persigue a la [liebre](#lepus) y junto al [perro pequeño](#canis-minor) acompañan al [cazador](#orion).
 ## Canis Maior
 El [perro pequeño](#canis-minor) que junto al [perro grande](#canis-maior) acompañan al [cazador](#orion).
 ## Orion
@@ -99,7 +99,7 @@ El [cazador pervertido](#orion) nace de los orines de los dioses en la piel de u
 ## Auriga
 Un [chófer](#auriga) que conduce sobre la vía láctea.
 ## Hydra
-[Serpiente marina de muchas cabezas](#hydra) a la que mata [Hércules](#hercules). También se la lleva un [cuervo mayordomo](#corvus) a su diós en una [taza](##crater).
+[Serpiente marina de muchas cabezas](#hydra) a la que mata [Hércules](#hercules). También se la lleva un [cuervo mayordomo](#corvus) a su dios en una [taza](#crater).
 ## Lepus
 [liebre](#lepus) que huye del [perro grande](#canis-maior) del [cazador pervertido](#orion).
 ## Lynx
@@ -118,7 +118,7 @@ Son las constelaciones visibles durante las noches de primavera por estar alejad
 ## Bootes
 El [pastor caníbal](#bootes) invita a *Zeus* a cenar y le concina a su nieto, como castigo le convierte en [lobo](#Lupus). Tiene [dos perros](#canes-venatici) que usa para pastorear a las osas [mayor](#ursa-maior) y [menor](#ursa-minor).
 ## Crater
-La [taza](#crater) que usa el [cuervo mayordomo](#corvus) para llevar una [serpiente marina de muchas cabezas](#hydra) a su diós.
+La [taza](#crater) que usa el [cuervo mayordomo](#corvus) para llevar una [serpiente marina de muchas cabezas](#hydra) a su dios.
 ## Lupus
 El [pastor caníbal](#bootes) convertido en en [lobo](#lupus) por *Zeus* como casigo por darle de cenar a su nieto.
 ## Corvus
