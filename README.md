@@ -1,4 +1,10 @@
 # Sistema solar
+Escala de cuerpos usando diámetros típicos aproximados:
+- Asteroides: hasta 100 km
+- Lunas y planetas enanos: 1000 km
+- Planetas rocosos: 10000 km
+- Planetas gaseosos: 100000 km
+- Sol (estrella mediana): 1000000 km
 ![Sistema solar a escala](planets/sistema-solar-escala.png)
 ## ☀️ Sol
 - Se mueve por la una línea que representa el plano del Sistema Solar llamado **eclíptica**.
